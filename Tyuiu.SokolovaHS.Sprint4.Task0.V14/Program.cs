@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Tyuiu.SokolovaHS.Sprint4.Task0.V14.Lib;
 
-namespace Tyuiu.SokolovaHS.Sprint2.Task1.V6
+namespace Tyuiu.SokolovaHS.Sprint4.Task0.V14
 {
     class Program
     {
